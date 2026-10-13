@@ -1,0 +1,8 @@
+{
+  "name": "Remix ConcreteIQ Lab — AI Concrete Strength Prediction",
+  "description": "AI-powered civil engineering lab app for concrete compressive strength prediction, EDA, ML model training, mix design optimization, and engineering assistant based on UCI Dataset #165.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Axiom — Civil Engineering & Materials AI Engine",
+  "short_name": "Axiom",
+  "description": "AI-powered civil engineering & materials platform for concrete compressive strength prediction, EDA, ML/ANN model training, and mix design optimization.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
